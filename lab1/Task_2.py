@@ -10,5 +10,3 @@ def rotateLeft(source,k):
     
 source=[10,20,30,40,50,60]    
 rotateLeft(source,3)    
- ghjksh dh
- git 
