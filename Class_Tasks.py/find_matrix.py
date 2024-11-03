@@ -12,5 +12,5 @@ def find_value(matrix, value):
                 return True  
     print(f"Value {value} not found in the matrix.")
     return False  
-num = 5
+num = int(input("give me ur value: "))
 find_value(mat, num)
