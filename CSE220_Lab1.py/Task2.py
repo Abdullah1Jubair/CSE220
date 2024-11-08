@@ -1,3 +1,4 @@
+#Discard Cards
 import numpy as np
 
 def discardCards(cards, t):
@@ -23,4 +24,4 @@ def discardCards(cards, t):
 
 cards = np.array([1, 3, 7, 2, 5, 2, 2, 2, 0])
 print(discardCards(cards, t=2))
-
+print(type(cards))
